@@ -1,0 +1,28 @@
+{
+  "name": "deweloopers",
+  "version": "0.0.0",
+  "description": "A personal blog for ​publicizing big ideas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ehsanghorbani190/deweloopers-memoir.git"
+  },
+  "keywords": [
+    "blog",
+    "static",
+    "ssr",
+    "11ty"
+  ],
+  "author": "Ehsan Ghorbani",
+  "license": "CC-BY-4.0",
+  "bugs": {
+    "url": "https://github.com/ehsanghorbani190/deweloopers-memoir/issues"
+  },
+  "homepage": "https://github.com/ehsanghorbani190/deweloopers-memoir#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  }
+}
